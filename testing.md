@@ -1,5 +1,3 @@
-${\color{red}Red \space gown }$
-
 ```
  lsblk
 ```
