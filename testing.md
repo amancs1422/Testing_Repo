@@ -1,5 +1,4 @@
-lorem ipsum <span style="color:red">dolor</span> sit amet
-
+${\color{red}Red \space gown }$
 
 ```
  lsblk
